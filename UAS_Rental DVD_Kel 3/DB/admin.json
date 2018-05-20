@@ -1,0 +1,2 @@
+{ "_id" : { "$oid" : "5b01086b43206717d0cd16a6" }, "first_name" : "Jon", "last_name" : "Stephens", "email" : "Jon.Stephens@rentalstaff.com", "username" : "Jon", "password" : "8cb2237d0679ca88db6464eac60da96345513964" }
+{ "_id" : { "$oid" : "5b01089a43206717d0cd16a7" }, "first_name" : "Mike", "last_name" : "Hillyer", "email" : "Mike.Hillyer@rentalstaff.com", "username" : "Mike", "password" : "7240835ee7502289c76f5e9bd4cddb8d" }

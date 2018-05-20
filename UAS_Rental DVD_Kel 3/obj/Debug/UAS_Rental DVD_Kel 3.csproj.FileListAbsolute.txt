@@ -1,0 +1,20 @@
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\UAS_Rental DVD_Kel 3.exe.config
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\UAS_Rental DVD_Kel 3.exe
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\UAS_Rental DVD_Kel 3.pdb
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\DnsClient.dll
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\MongoDB.Bson.dll
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\MongoDB.Driver.Core.dll
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\MongoDB.Driver.dll
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\System.Buffers.dll
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\DnsClient.xml
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\MongoDB.Bson.xml
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\MongoDB.Driver.xml
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\bin\Debug\MongoDB.Driver.Core.xml
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\obj\Debug\UAS_Rental DVD_Kel 3.csprojResolveAssemblyReference.cache
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\obj\Debug\UAS_Rental_DVD_Kel_3.Properties.Resources.resources
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\obj\Debug\UAS_Rental DVD_Kel 3.csproj.GenerateResource.Cache
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\obj\Debug\UAS_Rental DVD_Kel 3.exe
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\obj\Debug\UAS_Rental DVD_Kel 3.pdb
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\obj\Debug\UAS_Rental_DVD_Kel_3.Login.resources
+D:\Development\MongoDB Apps\UAS_Rental DVD_Kel 3\UAS_Rental DVD_Kel 3\obj\Debug\UAS_Rental_DVD_Kel_3.MainForm.resources
